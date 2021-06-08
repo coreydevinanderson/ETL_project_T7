@@ -1,0 +1,90 @@
+state,job_title,hourly_wage_mean,hourly_wage_median,annual_wage_median
+AL,Database Administrators and Architects,41.13,39.0,81130
+AK,Database Administrators and Architects,41.8,41.45,86210
+AK,"Data Scientists and Mathematical Science Occupations, All Other",33.83,33.1,68840
+AZ,Database Administrators and Architects,48.58,47.49,98780
+AZ,"Data Scientists and Mathematical Science Occupations, All Other",52.31,54.54,113430
+AR,Database Administrators and Architects,37.31,37.57,78150
+CA,Database Administrators and Architects,51.31,48.83,101560
+CA,"Data Scientists and Mathematical Science Occupations, All Other",55.45,50.95,105980
+CO,Database Administrators and Architects,45.12,45.51,94660
+CO,"Data Scientists and Mathematical Science Occupations, All Other",46.14,43.12,89700
+CT,Database Administrators and Architects,50.59,50.97,106030
+CT,"Data Scientists and Mathematical Science Occupations, All Other",46.16,45.81,95280
+DE,Database Administrators and Architects,44.45,42.53,88460
+DC,Database Administrators and Architects,49.85,48.67,101230
+FL,Database Administrators and Architects,43.43,43.38,90230
+FL,"Data Scientists and Mathematical Science Occupations, All Other",38.93,30.89,64250
+GA,Database Administrators and Architects,45.25,45.81,95290
+GA,"Data Scientists and Mathematical Science Occupations, All Other",39.19,35.29,73410
+HI,Database Administrators and Architects,45.19,45.22,94050
+ID,Database Administrators and Architects,34.02,30.93,64330
+IL,Database Administrators and Architects,47.06,47.93,99690
+IL,"Data Scientists and Mathematical Science Occupations, All Other",48.68,46.68,97090
+IN,Database Administrators and Architects,35.83,33.73,70160
+IN,"Data Scientists and Mathematical Science Occupations, All Other",38.7,37.11,77180
+IA,Database Administrators and Architects,44.89,45.78,95210
+KS,Database Administrators and Architects,43.18,41.73,86790
+KS,"Data Scientists and Mathematical Science Occupations, All Other",33.43,31.52,65560
+KY,Database Administrators and Architects,42.0,40.74,84740
+KY,"Data Scientists and Mathematical Science Occupations, All Other",35.61,29.62,61610
+LA,Database Administrators and Architects,37.28,35.78,74430
+LA,"Data Scientists and Mathematical Science Occupations, All Other",34.92,31.24,64980
+ME,Database Administrators and Architects,42.13,41.51,86350
+ME,"Data Scientists and Mathematical Science Occupations, All Other",37.61,36.86,76670
+MD,Database Administrators and Architects,46.26,42.89,89200
+MD,"Data Scientists and Mathematical Science Occupations, All Other",56.11,55.0,114400
+MA,Database Administrators and Architects,49.77,49.7,103370
+MA,"Data Scientists and Mathematical Science Occupations, All Other",51.28,47.85,99520
+MI,Database Administrators and Architects,41.01,40.04,83290
+MI,"Data Scientists and Mathematical Science Occupations, All Other",42.59,39.3,81730
+MN,Database Administrators and Architects,47.72,47.48,98750
+MN,"Data Scientists and Mathematical Science Occupations, All Other",44.6,44.44,92430
+MS,Database Administrators and Architects,38.33,35.66,74180
+MS,"Data Scientists and Mathematical Science Occupations, All Other",30.41,26.86,55880
+MO,Database Administrators and Architects,40.19,38.25,79560
+MO,"Data Scientists and Mathematical Science Occupations, All Other",49.06,47.84,99500
+MT,Database Administrators and Architects,34.32,31.08,64650
+NE,Database Administrators and Architects,42.17,42.81,89040
+NE,"Data Scientists and Mathematical Science Occupations, All Other",26.08,22.17,46100
+NV,Database Administrators and Architects,43.64,43.57,90620
+NV,"Data Scientists and Mathematical Science Occupations, All Other",51.87,50.06,104120
+NH,Database Administrators and Architects,46.26,46.04,95760
+NH,"Data Scientists and Mathematical Science Occupations, All Other",55.67,52.81,109840
+NJ,Database Administrators and Architects,55.58,55.31,115050
+NJ,"Data Scientists and Mathematical Science Occupations, All Other",55.52,53.54,111360
+NM,Database Administrators and Architects,37.37,36.18,75250
+NM,"Data Scientists and Mathematical Science Occupations, All Other",32.72,31.44,65390
+NY,Database Administrators and Architects,49.6,47.14,98050
+NY,"Data Scientists and Mathematical Science Occupations, All Other",60.18,57.27,119130
+NC,Database Administrators and Architects,47.11,47.78,99390
+NC,"Data Scientists and Mathematical Science Occupations, All Other",57.49,55.06,114520
+ND,Database Administrators and Architects,37.55,40.16,83540
+OH,Database Administrators and Architects,42.92,42.91,89260
+OH,"Data Scientists and Mathematical Science Occupations, All Other",40.05,38.72,80540
+OK,Database Administrators and Architects,35.31,32.51,67620
+OK,"Data Scientists and Mathematical Science Occupations, All Other",35.19,34.02,70760
+OR,Database Administrators and Architects,45.1,46.19,96070
+OR,"Data Scientists and Mathematical Science Occupations, All Other",38.82,35.63,74110
+PA,Database Administrators and Architects,41.74,39.92,83040
+PA,"Data Scientists and Mathematical Science Occupations, All Other",39.1,36.03,74940
+RI,Database Administrators and Architects,44.75,45.4,94430
+RI,"Data Scientists and Mathematical Science Occupations, All Other",40.59,38.43,79930
+SC,Database Administrators and Architects,41.35,38.56,80200
+SC,"Data Scientists and Mathematical Science Occupations, All Other",51.13,55.85,116170
+SD,Database Administrators and Architects,36.74,36.77,76470
+TN,Database Administrators and Architects,38.34,37.79,78590
+TN,"Data Scientists and Mathematical Science Occupations, All Other",40.42,37.99,79010
+TX,Database Administrators and Architects,48.77,47.64,99080
+TX,"Data Scientists and Mathematical Science Occupations, All Other",47.28,46.41,96520
+UT,Database Administrators and Architects,44.32,44.55,92670
+UT,"Data Scientists and Mathematical Science Occupations, All Other",35.64,33.94,70590
+VT,Database Administrators and Architects,34.19,31.29,65090
+VA,Database Administrators and Architects,49.19,48.47,100810
+WA,Database Administrators and Architects,53.67,54.46,113280
+WA,"Data Scientists and Mathematical Science Occupations, All Other",55.63,55.29,115010
+WV,Database Administrators and Architects,34.27,31.64,65800
+WV,"Data Scientists and Mathematical Science Occupations, All Other",33.39,29.15,60630
+WI,Database Administrators and Architects,42.64,42.32,88020
+WI,"Data Scientists and Mathematical Science Occupations, All Other",41.2,39.77,82710
+WY,Database Administrators and Architects,28.06,25.48,53000
