@@ -16,5 +16,5 @@ After importing from postgreSQL, you can transform the DataFrame back into a Geo
 > gdf = geopd.GeoDataFrame(df, geometry = 'geometry')
 
 
-See the Documentation word doc for more explanations and step by step ETL process
+See the Documentation pdf for more explanations and step by step ETL process
 
